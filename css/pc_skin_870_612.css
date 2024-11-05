@@ -1,21 +1,21 @@
 @charset "utf-8";
 @font-face {
 	font-family:'icomoon';
-	src:url('/img_up/shop_pds/aramskin/design/uf2smart83/icomoon/icomoon.eot');
-	src:url('/img_up/shop_pds/aramskin/design/uf2smart83/icomoon/icomoon.eot') format('embedded-opentype'),
-		url('/img_up/shop_pds/aramskin/design/uf2smart83/icomoon/icomoon.ttf') format('truetype'),
-		url('/img_up/shop_pds/aramskin/design/uf2smart83/icomoon/icomoon.woff') format('woff'),
-		url('/img_up/shop_pds/aramskin/design/uf2smart83/icomoon/icomoon.svg') format('svg');
+	src:url('/fonts/icommon/icomoon.eot');
+	src:url('/fonts/icommon/icomoon.eot') format('embedded-opentype'),
+		url('/fonts/icommon/icomoon.ttf') format('truetype'),
+		url('/fonts/icommon/icomoon.woff') format('woff'),
+		url('/fonts/icommon/icomoon.svg') format('svg');
 	font-weight:normal;
 	font-style:normal;
 }
 @font-face {
 	font-family:'voice_icomoon';
-	src:url('/img_up/shop_pds/aramskin/design/skin/voice_guide/icomoon.eot');
-	src:url('/img_up/shop_pds/aramskin/design/skin/voice_guide/icomoon.eot?#iefix') format('embedded-opentype'),
-		url('/img_up/shop_pds/aramskin/design/skin/voice_guide/icomoon.woff') format('woff'),
-		url('/img_up/shop_pds/aramskin/design/skin/voice_guide/icomoon.ttf') format('truetype'),
-		url('/img_up/shop_pds/aramskin/design/skin/voice_guide/icomoon.svg#icomoon') format('svg');
+	src:url('/fonts/voice_guide/icomoon.eot');
+	src:url('/fonts/voice_guide/icomoon.eot?#iefix') format('embedded-opentype'),
+		url('/fonts/voice_guide/icomoon.woff') format('woff'),
+		url('/fonts/voice_guide/icomoon.ttf') format('truetype'),
+		url('/fonts/voice_guide/icomoon.svg#icomoon') format('svg');
 	font-weight:normal;
 	font-style:normal;
 }
