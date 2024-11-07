@@ -193,7 +193,7 @@
 						
 						
 			<div class="player__1730095__ player-16by9">
-				<iframe id="youtube_player__1730095__" data-aos="fade-up" data-aos-duration="800" data-aos-delay="300" class="aos-init" frameborder="0" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" title="북수원이목지구 디에트르더리체2｜1688-6549" width="640" height="360" src="./html/hC6yECVUCqQ.html"></iframe>
+				<iframe id="youtube_player__1730095__" data-aos="fade-up" data-aos-duration="800" data-aos-delay="300" class="aos-init" frameborder="0" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" title="북수원이목지구 디에트르더리체2｜010-3235-0049" width="640" height="360" src="./html/hC6yECVUCqQ.html"></iframe>
 			</div>
 			</div>
 		</div>
@@ -232,7 +232,7 @@
 						
 						
 			<div class="player__1730165__ player-16by9">
-				<iframe id="youtube_player__1730165__" frameborder="0" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" title="북수원이목지구 디에트르더리체1｜1688-6549" width="640" height="360" src="./html/b0wDpaRD2d8.html"></iframe>
+				<iframe id="youtube_player__1730165__" frameborder="0" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" title="북수원이목지구 디에트르더리체1｜010-3235-0049" width="640" height="360" src="./html/b0wDpaRD2d8.html"></iframe>
 			</div>
 			</div>
 		</div>

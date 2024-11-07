@@ -12,7 +12,7 @@
     <meta name="apple-mobile-web-app-title" content="북수원이목지구 디에트르 더 리체">
     <meta name="application-name" content="북수원이목지구 디에트르 더 리체">
     <meta name="theme-color" content="#ffffff">
-    <meta name="description" content="북수원이목지구 디에트르 더 리체 I 아파트 I ☎상담문의 : 1688-6549 I 분양가 I 대표번호 I 모델하우스 방문예약 I 주식회사 태복플래닝">
+    <meta name="description" content="북수원이목지구 디에트르 더 리체 I 아파트 I ☎상담문의 : 010-3235-0049 I 분양가 I 대표번호 I 모델하우스 방문예약 I 주식회사 태복플래닝">
     <meta name="keywords" content="북수원이목지구디에트르, 이목지구디에트르, 이목동디에트르, 수원이목지구디에트르, 디에트르더리체, 이목지구디에트르모델하우스, 북수원디에트르, 북수원이목지구디에트르모델하우스, 이목동디에트르분양가, 북수원이목지구">
     <link rel="canonical" href="http://bumyangre.taeboksolution.com/">
     <meta property="og:type" content="website">
@@ -22,12 +22,12 @@
     <meta property="og:image" content="http://www.xn--2e0b68l9xdi9a8zgpzir2go6bg0bbzlyv2a.biz/thum_img/detresw/og_img/kakao_og_img_12001729493865.jpg">
     <meta property="og:image:width" content="1200">
     <meta property="og:image:height" content="630">
-    <meta property="og:description" content="북수원이목지구 디에트르 더 리체 I 아파트 I ☎상담문의 : 1688-6549 I 분양가 I 대표번호 I 모델하우스 방문예약 I 주식회사 태복플래닝">
+    <meta property="og:description" content="북수원이목지구 디에트르 더 리체 I 아파트 I ☎상담문의 : 010-3235-0049 I 분양가 I 대표번호 I 모델하우스 방문예약 I 주식회사 태복플래닝">
     <meta name="twitter:card" content="summary">
     <meta name="twitter:title" content="북수원이목지구 디에트르 더 리체">
     <meta name="twitter:site" content="북수원이목지구 디에트르 더 리체">
     <meta name="twitter:image" content="http://www.xn--2e0b68l9xdi9a8zgpzir2go6bg0bbzlyv2a.biz/thum_img/detresw/og_img/kakao_og_img_12001729493865.jpg">
-    <meta name="twitter:description" content="북수원이목지구 디에트르 더 리체 I 아파트 I ☎상담문의 : 1688-6549 I 분양가 I 대표번호 I 모델하우스 방문예약 I 주식회사 태복플래닝">
+    <meta name="twitter:description" content="북수원이목지구 디에트르 더 리체 I 아파트 I ☎상담문의 : 010-3235-0049 I 분양가 I 대표번호 I 모델하우스 방문예약 I 주식회사 태복플래닝">
     <link rel="shortcut icon" href="http://www.xn--2e0b68l9xdi9a8zgpzir2go6bg0bbzlyv2a.biz/img_up/shop_pds/detresw/etc/favicon_481729493865.ico">
     <script type="text/javascript" src="./js/jquery.min.js"></script>
     <link rel="stylesheet" href="./css/head_basic.css" type="text/css" media="all">
@@ -217,7 +217,7 @@
 
                     <div class="gnb_cs_info">
                         <div class="gnb_cs_inner">
-                            <span class="gnb_cs_text">24시간 분양문의</span>							<span class="gnb_cs_tel">1688-6549</span>
+                            <span class="gnb_cs_text">24시간 분양문의</span>							<span class="gnb_cs_tel">010-3235-0049</span>
                         </div>
                     </div> -->
 
